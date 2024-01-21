@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Shivansh Mishra. 
-- 👀 I’m interested in the technology, chemistry and material science. 
+- 👀 I’m interested in the technology, electrical and electronics . 
 - 🌱 I’m currently learning programing language C++.
 -    I am the student of IIT BHU.
--    My branch is Pharmaceutical Engineering and Technology. 
+-    My branch is Electrical Engineering. 
 - 
 - 📫 My email mshivansh875@gmail.com
 
